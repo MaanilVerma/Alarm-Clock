@@ -38,14 +38,14 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # LINKS
 
-<a href = "https://alarmclock-js.netlify.app/"> <b>LIVE PRODUCT</b> </a>  <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b> </a> <br>
+<a href = "https://alarmclock-js.netlify.app/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <strong>Connect With Me @</strong>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://maanilverma.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/maanilverma"><img src="https://img.shields.io/badge/-Maanil%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maanilv8@gmail.com"><img src="https://img.shields.io/badge/-maanilv8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/MaanilV"><img src="https://img.shields.io/twitter/url?color=White&label=Maanil%20Vema&style=social&url=https%3A%2F%2Ftwitter.com%2FMaanilV"/></a>
